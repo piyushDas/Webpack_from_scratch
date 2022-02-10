@@ -18,11 +18,14 @@ basic is provided in the file
 once you have all this setup,
 configure two commands in your package.json
 - "build": "webpack"
-- "start:dev": "webpack-dev-server"
+- "start:dev": "webpack-dev-server" // you can name these commands anything
 
 
 by default build will create a dist folder in your project and will contain the html and js file.
 
 
 **to run locally you don't need the build command
+
+To run your project
+ - npm run start:dev
 
