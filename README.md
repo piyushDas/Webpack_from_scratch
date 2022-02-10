@@ -8,7 +8,7 @@ check for webpack packages
     "webpack-dev-server": "^4.7.4"
     
     
-At least the above of some version are needed.
+At least the above packages of any version are needed.
 
 
 webpack.config.js contains two arrays - rules and plugins, you can refer to their repsective detailed configs from internet,
